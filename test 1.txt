@@ -1,3 +1,8 @@
 git
 maven
 practice
+clone computing
+status
+java
+home tech
+python
